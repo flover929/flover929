@@ -6,8 +6,8 @@
 
 ## 🖥️ 사용 가능한 기술 (Tech Stack)
 
-**언어**: java, HTML, CSS, JavaScript
-**도구**: Git, Github, VS code
+**언어**: java, HTML, CSS, JavaScript, python
+**도구**: Git, Github, VS code, Eclipse
 
 ##취미
 **⚾🧢: 야구** 를 좋아합니다.
